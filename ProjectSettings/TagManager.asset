@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - cat
+  - rabbit
+  - bullet
+  - leftwall
+  - rightwall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1496082689
+    locked: 0
+  - name: solid
+    uniqueID: 4150886923
+    locked: 0
+  - name: castle
+    uniqueID: 1636865699
+    locked: 0
+  - name: monster
+    uniqueID: 3737748225
+    locked: 0
+  - name: alice
+    uniqueID: 1934344335
+    locked: 0
+  - name: bullet
+    uniqueID: 2692145337
+    locked: 0
+  - name: flame
+    uniqueID: 2628649373
+    locked: 0
